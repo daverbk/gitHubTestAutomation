@@ -4,7 +4,7 @@
     <img src="github-logo.png" alt="Inline specification" width="30%"/>
 </p>
 
-# Let's practice test automation together 😊
+## Let's practice test automation together 😊
 
 ## Current contributors
 
@@ -12,4 +12,4 @@
   <img src="https://contrib.rocks/image?repo=daverbk/github-ta" />
 </a>
 
-Made with [contributors-img](https://contrib.rocks).
+*Made with [contributors-img](https://contrib.rocks)* 
