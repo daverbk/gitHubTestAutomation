@@ -4,7 +4,7 @@
     <img src="github-logo.png" alt="Inline specification" width="30%"/>
 </p>
 
-## Let's practice test automation together 😊
+## Let's practice together 😊
 
 ## Current contributors
 
